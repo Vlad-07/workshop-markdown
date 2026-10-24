@@ -246,7 +246,7 @@ Run with:
 ./helloworld
 ```
 
-## Per
+## Perl
 
 ```pl
 print("Hello, World!\n")
